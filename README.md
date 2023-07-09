@@ -1,8 +1,17 @@
 ## 🚀 Desafios Html e CSS 🚀
 
-***Se a falta de tempo for justificada para você não tirar projeto do papel. somente os desocupados teriam sucesso. - Flávio Augusto da Silva "
 
- ## Objetivo
+***Se a falta de tempo for justificada para você não tirar projeto do papel. somente os desocupados teriam sucesso. - Flávio Augusto da Silva "***
+
+## Selecione um dos projetos e crie uma pasta com o seu nome, em seguida, comece a trabalhar nele.
+### Dicas:
+ - Faça o fork do projeto.
+ - Crie um branch para fazer suas alterações.
+ - Crie uma pasta com o seu nome.
+ - Dentro da pasta com o seu nome, crie uma subpasta com a descrição do desafio.
+ 
+
+ ## Projetos 
 
 * [Desafio 01 - Ícone de mídia social em camadas](#id01)
 * [Desafio 02 - Loader animado](#id02)
