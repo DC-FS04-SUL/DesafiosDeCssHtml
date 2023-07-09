@@ -69,7 +69,7 @@
 
 ##  Desafio 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
 
-<img src="Desafios/dia 03/gif/dia03.gif">
+<img src="https://github.com/desafiando-dev-s/30diasDeCSS/blob/master/Desafios/dia%2003/gif/dia03.gif">
 
 ##### Dicas
 
