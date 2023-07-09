@@ -13,7 +13,7 @@
 
 ## Projetos 
 
-# OBS: As imagens são ilustrativas para ter como base!!
+# OBS: As imagens são ilustrativas, utilize-as como referência.!!
 
 * [Desafio 01 - Ícone de mídia social em camadas](#id01)
 * [Desafio 02 - Loader animado](#id02)
