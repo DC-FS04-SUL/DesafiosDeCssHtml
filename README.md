@@ -13,6 +13,8 @@
 
  ## Projetos 
 
+# OBS: As imagens são ilustrativas para ter como base!!
+
 * [Desafio 01 - Ícone de mídia social em camadas](#id01)
 * [Desafio 02 - Loader animado](#id02)
 * [Desafio 03 - Mudança de cor de texto quando entra em outra div](#id03)
