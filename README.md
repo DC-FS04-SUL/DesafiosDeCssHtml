@@ -11,7 +11,7 @@
  - Dentro da pasta com o seu nome, crie uma subpasta com a descrição do desafio.
  
 
- ## Projetos 
+## Projetos 
 
 # OBS: As imagens são ilustrativas para ter como base!!
 
